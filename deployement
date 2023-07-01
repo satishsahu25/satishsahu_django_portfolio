@@ -1,3 +1,8 @@
 deploying on pythonanywhere
 
 Steps:
+1. $Bash button
+2. git clone https://github.com/satishsahu25/satishsahu_django_portfolio
+3. mkvirtualenv --python=/usr/bin/python3.10 mysite-virtualenv
+4. pip install django
+5. 
